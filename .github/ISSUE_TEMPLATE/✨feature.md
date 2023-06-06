@@ -1,7 +1,7 @@
 ---
 name: "✨feature"
 about: Suggest an idea for this project
-title: ''
+title: "[Feature] 00페이지 디자인 및 기능 구현 "
 labels: ''
 assignees: ''
 
